@@ -1,0 +1,25 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.imax.android.dev",
+    "sha256_cert_fingerprints":
+    ["AA:D4:4E:1B:D1:A6:12:03:00:8E:61:83:8E:9D:8A:49:C5:7A:7B:D2:6A:75:6D:67:CF:3F:23:42:1D:61:16:AA"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://daniilbug.github.io"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.imax.android.dev",
+    "sha256_cert_fingerprints":
+    ["AA:D4:4E:1B:D1:A6:12:03:00:8E:61:83:8E:9D:8A:49:C5:7A:7B:D2:6A:75:6D:67:CF:3F:23:42:1D:61:16:AA"]
+  }
+}]

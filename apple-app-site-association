@@ -8,6 +8,7 @@
                "/feed",
                "/shows",
                "/show/*",
+               "/location",
                "/location/*",
                "/product/*",
                "/password-reset"

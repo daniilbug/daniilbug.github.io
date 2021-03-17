@@ -1,0 +1,17 @@
+{
+   "applinks":{
+      "apps":[],
+      "details":[
+         {
+            "appID":"P6479Q4C62.com.imax.dtc.dev",
+            "paths":[
+               "/feed",
+               "/shows",
+               "/show/*",
+               "/location/*",
+               "/product/*"
+            ]
+         }
+      ]
+   }
+}

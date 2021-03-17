@@ -9,7 +9,8 @@
                "/shows",
                "/show/*",
                "/location/*",
-               "/product/*"
+               "/product/*",
+               "/password-reset"
             ]
          }
       ]

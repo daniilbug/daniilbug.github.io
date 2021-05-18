@@ -1,0 +1,20 @@
+{
+   "applinks":{
+      "apps":[],
+      "details":[
+         {
+            "appID":"JVX7U43WRX.band.effective.imax",
+            "paths":[
+               "/feed",
+               "/shows",
+               "/show/*",
+               "/location",
+               "/location/*",
+               "/product/*",
+               "/password-reset",
+               "/forgot-password"
+            ]
+         }
+      ]
+   }
+}

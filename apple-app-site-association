@@ -3,7 +3,7 @@
       "apps":[],
       "details":[
          {
-            "appID":"P6479Q4C62.com.imax.dtc.dev",
+            "appID":"JVX7U43WRX.band.effective.imax",
             "paths":[
                "/feed",
                "/shows",
@@ -11,7 +11,8 @@
                "/location",
                "/location/*",
                "/product/*",
-               "/password-reset"
+               "/password-reset",
+               "/forgot-password"
             ]
          }
       ]
